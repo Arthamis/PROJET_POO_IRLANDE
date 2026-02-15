@@ -1,0 +1,19 @@
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.exe.config
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.exe
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.pdb
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\MainWindow.g.cs
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\App.g.cs
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages_MarkupCompile.cache
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages_MarkupCompile.lref
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\MainWindow.baml
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.g.resources
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2_Pages.Properties.Resources.resources
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.csproj.GenerateResource.cache
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.csproj.CoreCompileInputs.cache
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.exe
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.pdb
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.csprojAssemblyReference.cache
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Pages\Page1.g.cs
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Pages\Page2.g.cs
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Pages\Page1.baml
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 3\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Pages\Page2.baml

@@ -1,0 +1,71 @@
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex3 Pages.csprojAssemblyReference.cache
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Page1.g.cs
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Page2.g.cs
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\App.g.cs
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages_MarkupCompile.cache
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages_MarkupCompile.lref
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.exe.config
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.exe
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.pdb
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Page1.baml
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Page2.baml
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.g.resources
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2_Pages.Properties.Resources.resources
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex3 Pages.csproj.GenerateResource.cache
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex3 Pages.csproj.CoreCompileInputs.cache
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.exe
+C:\Users\keith\Dropbox\IT Sligo\2018-2019 IT Sligo\Teaching 2018-2019\S2 FOOP\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.pdb
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.exe.config
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.exe
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.pdb
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex3 Pages.csproj.AssemblyReference.cache
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex3 Pages.csproj.SuggestedBindingRedirects.cache
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Page1.g.cs
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Page2.g.cs
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\App.g.cs
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages_MarkupCompile.cache
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages_MarkupCompile.lref
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Page1.baml
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Page2.baml
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.g.resources
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2_Pages.Properties.Resources.resources
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex3 Pages.csproj.GenerateResource.cache
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex3 Pages.csproj.CoreCompileInputs.cache
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.exe
+C:\Users\kmcmanus\OneDrive - Atlantic TU\Academic Year 2022-2023\Teaching\OOD\Week 6\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.pdb
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.exe.config
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.exe
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.pdb
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex3 Pages.csproj.AssemblyReference.cache
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.exe.config
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Page1.g.cs
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Page2.g.cs
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\App.g.cs
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages_MarkupCompile.cache
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages_MarkupCompile.lref
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Page1.baml
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Page2.baml
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.g.resources
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2_Pages.Properties.Resources.resources
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex3 Pages.csproj.GenerateResource.cache
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex3 Pages.csproj.CoreCompileInputs.cache
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.exe
+C:\Users\kmcmanus\Downloads\Playing with navigation\Playing with navigation\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.pdb
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.exe.config
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.exe
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\bin\Debug\Ex2 Pages.pdb
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Ex3 Pages.csproj.AssemblyReference.cache
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.exe.config
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Page1.g.cs
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Page2.g.cs
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\App.g.cs
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages_MarkupCompile.cache
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages_MarkupCompile.lref
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Page1.baml
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Page2.baml
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.g.resources
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Ex2_Pages.Properties.Resources.resources
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Ex3 Pages.csproj.GenerateResource.cache
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Ex3 Pages.csproj.CoreCompileInputs.cache
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.exe
+C:\Users\kmcmanus\OneDrive - Atlantic TU\code\WpfApp4\Ex2 Pages\obj\Debug\Ex2 Pages.pdb
