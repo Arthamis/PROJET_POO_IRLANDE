@@ -20,6 +20,7 @@ namespace Project_App
     /// </summary>
     public partial class SelectCatLOTF : Page
     {
+        NavigationService ns;
         public SelectCatLOTF()
         {
             InitializeComponent();
@@ -27,7 +28,9 @@ namespace Project_App
 
         private void LOTF_Quest_Click(object sender, RoutedEventArgs e)
         {
-
+            Quest_LOTF lotf = new Quest_LOTF();
+            ns = NavigationService;
+            ns.Navigate(lotf);
         }
     }
 }

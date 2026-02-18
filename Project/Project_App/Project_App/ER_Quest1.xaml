@@ -20,7 +20,7 @@
         <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="69,239,0,0" VerticalAlignment="Top" Width="16" Height="17"/>
         <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="69,0,0,0" VerticalAlignment="Center" Width="16" Height="18" RenderTransformOrigin="0.493,3.072"/>
         <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="69,192,0,0" VerticalAlignment="Top" Width="16" Height="17"/>
-        <Image HorizontalAlignment="Left" Height="186" Margin="581,136,0,0" VerticalAlignment="Top" Width="207"/>
+        <Image HorizontalAlignment="Left" Source="/ER_quest_icon.png" Height="186" Margin="581,136,0,0" VerticalAlignment="Top" Width="207"/>
         <TextBox HorizontalAlignment="Center" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Center" Width="180" Height="178"/>
         <Grid.Background>
             <ImageBrush Stretch="Fill" ImageSource="/bg_ER.jpg" AlignmentY="Top" AlignmentX="Center"/>

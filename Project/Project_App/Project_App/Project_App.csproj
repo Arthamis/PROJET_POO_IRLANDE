@@ -55,11 +55,29 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="DS1_Quest1.xaml.cs">
+      <DependentUpon>DS1_Quest1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DS3_Quest1.xaml.cs">
+      <DependentUpon>DS3_Quest1.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ER_Quest1.xaml.cs">
       <DependentUpon>ER_Quest1.xaml</DependentUpon>
     </Compile>
+    <Compile Include="LOTF_Quest1.xaml.cs">
+      <DependentUpon>LOTF_Quest1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Quest_DS1.xaml.cs">
+      <DependentUpon>Quest_DS1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Quest_DS3.xaml.cs">
+      <DependentUpon>Quest_DS3.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Quest_ER.xaml.cs">
       <DependentUpon>Quest_ER.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Quest_LOTF.xaml.cs">
+      <DependentUpon>Quest_LOTF.xaml</DependentUpon>
     </Compile>
     <Compile Include="SelectCatDS1R.xaml.cs">
       <DependentUpon>SelectCatDS1R.xaml</DependentUpon>
@@ -80,11 +98,35 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="DS1_Quest1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DS3_Quest1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ER_Quest1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="LOTF_Quest1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Quest_DS1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Quest_DS3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Quest_ER.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Quest_LOTF.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

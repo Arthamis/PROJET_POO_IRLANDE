@@ -20,6 +20,7 @@ namespace Project_App
     /// </summary>
     public partial class SelectCatDS1R : Page
     {
+        NavigationService ns;
         public SelectCatDS1R()
         {
             InitializeComponent();
@@ -27,7 +28,9 @@ namespace Project_App
 
         private void DS1_Quest_Click(object sender, RoutedEventArgs e)
         {
-
+            Quest_DS1 ds = new Quest_DS1();
+            ns = NavigationService;
+            ns.Navigate(ds);
         }
     }
 }

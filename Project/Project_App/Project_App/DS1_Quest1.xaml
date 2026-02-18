@@ -1,0 +1,29 @@
+﻿<Page x:Class="Project_App.DS1_Quest1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Project_App"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="DS1_Quest1">
+
+    <Grid>
+        <Button HorizontalAlignment="Right" VerticalAlignment="Top" Height="50" Click="DS1_Quest1_1_Next" Width="150">
+            <Image HorizontalAlignment="Left" Height="50" VerticalAlignment="Center" Width="150" Source="/ER_quest_icon.png"/>
+        </Button>
+        <Label Content="QUEST1" HorizontalContentAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Top" Height="46" Width="148" FontWeight="Bold" FontSize="20" FontFamily="Arial Black" Background="{x:Null}" Foreground="White"/>
+        <Label Content="STEP 1" HorizontalContentAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Top" Height="46" Width="148" FontWeight="Bold" FontSize="20" FontFamily="Arial Black" Background="{x:Null}" Foreground="White" Margin="0,34,0,0"/>
+        <ListBox d:ItemsSource="{d:SampleData ItemCount=5}" Margin="90,163,599,163" FontSize="14"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="69,170,0,0" VerticalAlignment="Top" Width="16" Height="17"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="69,261,0,0" VerticalAlignment="Top" Width="16" Height="17"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="69,239,0,0" VerticalAlignment="Top" Width="16" Height="17"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="69,0,0,0" VerticalAlignment="Center" Width="16" Height="18" RenderTransformOrigin="0.493,3.072"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="69,192,0,0" VerticalAlignment="Top" Width="16" Height="17"/>
+        <Image HorizontalAlignment="Left" Source="/ER_quest_icon.png" Height="186" Margin="581,136,0,0" VerticalAlignment="Top" Width="207"/>
+        <TextBox HorizontalAlignment="Center" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Center" Width="180" Height="178"/>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/ds1_bg.jpg" AlignmentY="Top" AlignmentX="Center"/>
+        </Grid.Background>
+    </Grid>
+</Page>

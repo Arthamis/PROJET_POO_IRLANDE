@@ -26,3 +26,15 @@ C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\o
 C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\Quest_ER.baml
 C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\ER_Quest1.g.cs
 C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\ER_Quest1.baml
+C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\DS1_Quest1.g.cs
+C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\DS3_Quest1.g.cs
+C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\LOTF_Quest1.g.cs
+C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\Quest_DS1.g.cs
+C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\Quest_DS3.g.cs
+C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\Quest_LOTF.g.cs
+C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\DS1_Quest1.baml
+C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\DS3_Quest1.baml
+C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\LOTF_Quest1.baml
+C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\Quest_DS1.baml
+C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\Quest_DS3.baml
+C:\Users\OanellSaliou-STUDENT\source\repos\POO\Project\Project_App\Project_App\obj\Debug\Quest_LOTF.baml

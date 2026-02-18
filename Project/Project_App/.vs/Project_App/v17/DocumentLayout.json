@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\selectcatlotf.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\selectcatlotf.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\selectcatds3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\selectcatds3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\selectcatds1r.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\selectcatds1r.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\selectcatds1r.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\selectcatds1r.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|c:\\users\\oanellsaliou-student\\source\\repos\\poo\\project\\project_app\\project_app\\ds3_quest1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\ds3_quest1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|c:\\users\\oanellsaliou-student\\source\\repos\\poo\\project\\project_app\\project_app\\ds3_quest1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\ds3_quest1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|c:\\users\\oanellsaliou-student\\source\\repos\\poo\\project\\project_app\\project_app\\quest_ds3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\quest_ds3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|c:\\users\\oanellsaliou-student\\source\\repos\\poo\\project\\project_app\\project_app\\ds1_quest1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\ds1_quest1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|c:\\users\\oanellsaliou-student\\source\\repos\\poo\\project\\project_app\\project_app\\lotf_quest1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\lotf_quest1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|c:\\users\\oanellsaliou-student\\source\\repos\\poo\\project\\project_app\\project_app\\lotf_quest1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\lotf_quest1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|c:\\users\\oanellsaliou-student\\source\\repos\\poo\\project\\project_app\\project_app\\ds1_quest1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\ds1_quest1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|c:\\users\\oanellsaliou-student\\source\\repos\\poo\\project\\project_app\\project_app\\er_quest1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\er_quest1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|c:\\users\\oanellsaliou-student\\source\\repos\\poo\\project\\project_app\\project_app\\quest_lotf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\quest_lotf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|c:\\users\\oanellsaliou-student\\source\\repos\\poo\\project\\project_app\\project_app\\quest_lotf.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\quest_lotf.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|c:\\users\\oanellsaliou-student\\source\\repos\\poo\\project\\project_app\\project_app\\quest_ds1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\quest_ds1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\quest_er.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\quest_er.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|c:\\users\\oanellsaliou-student\\source\\repos\\poo\\project\\project_app\\project_app\\quest_ds3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\quest_ds3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|c:\\users\\oanellsaliou-student\\source\\repos\\poo\\project\\project_app\\project_app\\quest_ds1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\quest_ds1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\quest_er.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\quest_er.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\selectcater.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\selectcater.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\er_quest1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\er_quest1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\selectcater.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\selectcater.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\selectgame.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\selectgame.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\selectcatds3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\selectcatds3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\selectcatlotf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\selectcatlotf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\selectgame.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\selectgame.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\lotf.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\lotf.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\project_app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC244667-1022-45E4-AC3C-FD9033BF5D7C}|Project_App\\Project_App.csproj|solutionrelative:project_app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DS3_Quest1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\DS3_Quest1.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\DS3_Quest1.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\DS3_Quest1.xaml.cs",
+              "RelativeToolTip": "Project_App\\DS3_Quest1.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:31:35.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ER_Quest1.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\ER_Quest1.xaml",
+              "RelativeDocumentMoniker": "Project_App\\ER_Quest1.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\ER_Quest1.xaml",
+              "RelativeToolTip": "Project_App\\ER_Quest1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-11T11:35:58.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DS3_Quest1.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\DS3_Quest1.xaml",
+              "RelativeDocumentMoniker": "Project_App\\DS3_Quest1.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\DS3_Quest1.xaml",
+              "RelativeToolTip": "Project_App\\DS3_Quest1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T09:24:36.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectCatDS1R.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatDS1R.xaml",
+              "RelativeDocumentMoniker": "Project_App\\SelectCatDS1R.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatDS1R.xaml",
+              "RelativeToolTip": "Project_App\\SelectCatDS1R.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-04T09:43:05.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SelectCatDS1R.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatDS1R.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\SelectCatDS1R.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatDS1R.xaml.cs",
+              "RelativeToolTip": "Project_App\\SelectCatDS1R.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:28:39.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectCatDS3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatDS3.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\SelectCatDS3.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatDS3.xaml.cs",
+              "RelativeToolTip": "Project_App\\SelectCatDS3.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:28:53.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectCatLOTF.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatLOTF.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\SelectCatLOTF.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatLOTF.xaml.cs",
+              "RelativeToolTip": "Project_App\\SelectCatLOTF.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:29:14.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Quest_DS3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_DS3.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\Quest_DS3.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_DS3.xaml.cs",
+              "RelativeToolTip": "Project_App\\Quest_DS3.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:20:51.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DS1_Quest1.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\DS1_Quest1.xaml",
+              "RelativeDocumentMoniker": "Project_App\\DS1_Quest1.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\DS1_Quest1.xaml",
+              "RelativeToolTip": "Project_App\\DS1_Quest1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T09:24:52.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LOTF_Quest1.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\LOTF_Quest1.xaml",
+              "RelativeDocumentMoniker": "Project_App\\LOTF_Quest1.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\LOTF_Quest1.xaml",
+              "RelativeToolTip": "Project_App\\LOTF_Quest1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T09:25:05.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DS1_Quest1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\DS1_Quest1.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\DS1_Quest1.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\DS1_Quest1.xaml.cs",
+              "RelativeToolTip": "Project_App\\DS1_Quest1.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvx8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:30:17.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LOTF_Quest1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\LOTF_Quest1.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\LOTF_Quest1.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\LOTF_Quest1.xaml.cs",
+              "RelativeToolTip": "Project_App\\LOTF_Quest1.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:30:40.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SelectCatDS3.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatDS3.xaml",
+              "RelativeDocumentMoniker": "Project_App\\SelectCatDS3.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatDS3.xaml",
+              "RelativeToolTip": "Project_App\\SelectCatDS3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-04T09:42:50.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SelectGame.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectGame.xaml",
+              "RelativeDocumentMoniker": "Project_App\\SelectGame.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectGame.xaml",
+              "RelativeToolTip": "Project_App\\SelectGame.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-04T09:12:09.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SelectCatLOTF.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatLOTF.xaml",
+              "RelativeDocumentMoniker": "Project_App\\SelectCatLOTF.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatLOTF.xaml",
+              "RelativeToolTip": "Project_App\\SelectCatLOTF.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-04T09:43:21.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Quest_LOTF.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_LOTF.xaml",
+              "RelativeDocumentMoniker": "Project_App\\Quest_LOTF.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_LOTF.xaml",
+              "RelativeToolTip": "Project_App\\Quest_LOTF.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T09:16:33.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Quest_LOTF.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_LOTF.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\Quest_LOTF.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_LOTF.xaml.cs",
+              "RelativeToolTip": "Project_App\\Quest_LOTF.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:21:26.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Quest_ER.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_ER.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\Quest_ER.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_ER.xaml.cs",
+              "RelativeToolTip": "Project_App\\Quest_ER.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:54:42.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Quest_DS1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_DS1.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\Quest_DS1.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_DS1.xaml.cs",
+              "RelativeToolTip": "Project_App\\Quest_DS1.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:19:39.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Quest_DS3.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_DS3.xaml",
+              "RelativeDocumentMoniker": "Project_App\\Quest_DS3.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_DS3.xaml",
+              "RelativeToolTip": "Project_App\\Quest_DS3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T09:12:54.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Quest_DS1.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_DS1.xaml",
+              "RelativeDocumentMoniker": "Project_App\\Quest_DS1.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_DS1.xaml",
+              "RelativeToolTip": "Project_App\\Quest_DS1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T09:16:19.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ER_Quest1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\ER_Quest1.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\ER_Quest1.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\ER_Quest1.xaml.cs",
+              "RelativeToolTip": "Project_App\\ER_Quest1.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:55:17.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SelectGame.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectGame.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\SelectGame.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectGame.xaml.cs",
+              "RelativeToolTip": "Project_App\\SelectGame.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwC4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:12:11.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Quest_ER.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_ER.xaml",
+              "RelativeDocumentMoniker": "Project_App\\Quest_ER.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\Quest_ER.xaml",
+              "RelativeToolTip": "Project_App\\Quest_ER.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-04T10:54:38.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SelectCatER.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatER.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\SelectCatER.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatER.xaml.cs",
+              "RelativeToolTip": "Project_App\\SelectCatER.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:14:09.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SelectCatER.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatER.xaml",
+              "RelativeDocumentMoniker": "Project_App\\SelectCatER.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\SelectCatER.xaml",
+              "RelativeToolTip": "Project_App\\SelectCatER.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-04T09:39:20.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "lotf.jpg",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\lotf.jpg",
+              "RelativeDocumentMoniker": "Project_App\\lotf.jpg",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\lotf.jpg",
+              "RelativeToolTip": "Project_App\\lotf.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-04T10:55:03.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Project_App\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\App.xaml.cs",
+              "RelativeToolTip": "Project_App\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:40:56.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\App.config",
+              "RelativeDocumentMoniker": "Project_App\\App.config",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\App.config",
+              "RelativeToolTip": "Project_App\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-04T09:13:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\App.xaml",
+              "RelativeDocumentMoniker": "Project_App\\App.xaml",
+              "ToolTip": "C:\\Users\\OanellSaliou-STUDENT\\source\\repos\\POO\\Project\\Project_App\\Project_App\\App.xaml",
+              "RelativeToolTip": "Project_App\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-04T09:13:05.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
